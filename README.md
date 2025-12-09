@@ -5,13 +5,14 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/michav95/Integrated-Project-1
+   git clone https://github.com/michav95/Video-Game-Forecasting
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Integrated-Project-1
+   cd Video-Game-Forecasting
    ```
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
+
